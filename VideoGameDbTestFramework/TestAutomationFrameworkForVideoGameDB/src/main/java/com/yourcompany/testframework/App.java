@@ -1,4 +1,4 @@
-package com.ameya.testframework;
+package com.yourcompany.testframework;
 
 /**
  * Hello world!
